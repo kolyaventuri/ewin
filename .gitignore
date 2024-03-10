@@ -1,0 +1,16 @@
+logs
+*.log
+npm-debug.log*
+.pnpm-debug.log*
+
+node_modules/
+
+*.tsbuildinfo
+
+.npm
+
+.eslintcache
+
+.env
+.env.*
+!.env.example

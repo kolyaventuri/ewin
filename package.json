@@ -1,0 +1,20 @@
+{
+  "name": "ewin",
+  "version": "0.0.1",
+  "description": "Future home of a thing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolyaventuri/ewin.git"
+  },
+  "keywords": [],
+  "author": "Kolya Venturi<me@kolya.co>",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/kolyaventuri/ewin/issues"
+  },
+  "homepage": "https://github.com/kolyaventuri/ewin#readme"
+}
