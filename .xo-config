@@ -84,6 +84,7 @@
     "**/*.ts?(x)"
   ],
   "ignore": [
-    "**/*.js"
+    "**/*.js",
+    "vite.config.ts"
   ]
 }

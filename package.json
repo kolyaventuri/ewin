@@ -4,6 +4,7 @@
   "description": "Future home of a thing.",
   "main": "dist/index.js",
   "scripts": {
+    "test": "npm-run-all test:*",
     "test:unit": "vitest --run",
     "lint": "npm-run-all lint:*",
     "lint:typecheck": "tsc --noEmit",
